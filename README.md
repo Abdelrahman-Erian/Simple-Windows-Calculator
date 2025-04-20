@@ -1,3 +1,7 @@
+<h1>Simple-Windows-Calculator</h1>
+<p>Simple Windows calculator project for C# beginners.</p>
+
+<h2>User Interface</h2>
 <img src="CalculatorImage.jpg" alt="User Interface">
 
 <h2>Features</h2> 
