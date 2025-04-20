@@ -14,7 +14,7 @@
     <li>Two Clear Options</li>
     <ul>
       <li>Backspace: Deletes the last entered character.</li>
-      <li>Clear All: Clears the entire screen (input and result).</li>
+      <li>Clear All: Clears the entire screen.</li>
     </ul>         
     <li>Division by Zero Handling If user tries to divide by zero, the answer screen is automatically cleared.</li>
   </ul>
