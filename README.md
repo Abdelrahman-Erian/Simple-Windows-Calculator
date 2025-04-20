@@ -1,3 +1,5 @@
+<img src="CalculatorImage.jpg" alt="User Interface">
+
 <h2>Features</h2> 
   <ui>
     <li>This app provides functionality like Windows Calculator in Standard mode.</li>
